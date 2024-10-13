@@ -5,7 +5,8 @@
 ## [TOOLS USED](#TOOLS-USED)
 ## [DATA CLEANING AND PREPARATION](#DATA-CLEANING-AND-PREPARATION)
 ## [DATA ANALYSIS](#DATA-ANALYSIS)
-## [DATA VISUALIZATION](#DATA VISUALIZATION)
+## [DATA VISUALIZATION](#DATA-VISUALIZATION)
+
 ## PROJECT OVERVIEW
 This project contains a data analysis report on a data I worked on during my training as a data analyst at SkilHarvest. I carefully looked at the given data and i tried to make some pivot tables from the given data. This project contains some insights I perceived from the given data.
 ## DATA SOURCES
