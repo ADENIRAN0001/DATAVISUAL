@@ -1,6 +1,6 @@
 ## DATAVISUAL
 ## TABLE OF CONTENT
-## [PROJECT OVERVIEW] (#PROJECT_OVERVIEW)
+## [PROJECT OVERVIEW](#PROJECT-OVERVIEW)
 ## PROJECT OVERVIEW
 This project contains a data analysis report on a data I worked on during my training as a data analyst at SkilHarvest. I carefully looked at the given data and i tried to make some pivot tables from the given data. This project contains some insights I perceived from the given data.
 ## DATA SOURCES
@@ -29,6 +29,9 @@ Data visualization was done by the following procedures;
   - There are six (6) regions, twenty two markets, ten stores and four line of business.
   - Ekiti market has the highest revenue which is 7.63% while Ankpa store has the highest revenue
   - Service plan is the line of business with the highest revenue which makes up 71.02% of the total revenue
+## DATA VISUALIZATION
+Please kindly find below the data summary for the given dataset
+
 
 
 
