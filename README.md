@@ -26,7 +26,7 @@ The data given has little or no inconsistencies or irregualarities. Obviouly, it
 ## DATA VISUALIZATION 
 Data visualization was done by the following procedures;
 - Creating a pivot table. We selected all the given data and then we clicked on Pivot table.
-- We began to create different tables based on a few criteria in other to gain insight on the data
+- We began to create different tables based on a some criteria in other to gain insight on the data.
 - We created charts (graphs) based on the various tables that we created using the pivot.
 ## DATA ANALYSIS
   These are some of the insight I observed from the dataset.
